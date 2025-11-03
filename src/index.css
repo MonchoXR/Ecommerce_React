@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+
+/*  darkmode para todo*/
+@custom-variant dark (&:where(.dark, .dark *));
+.dark [data-testid="flowbite-dropdown-arrow-icon"] {
+  color: white !important;
+}
+
+/* Darkmode personalizado para el boton dark*/
+[data-testid="dark-theme-toggle"] {
+  outline: none !important;
+  box-shadow: none !important;
+}
+[data-testid="dark-theme-toggle"]:focus,
+[data-testid="dark-theme-toggle"]:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+  background-color: transparent !important;
+}
+
+
+
+
+@source "./src";
+@source "../.flowbite-react/class-list.json";
+
+
+
+/* Detecta cuando el dropdown está abierto para su animacion */
+button[aria-expanded="true"] svg.chevron-anim {
+  transform: rotate(180deg);
+}
+button[aria-expanded="true"] svg.chevron-anim {
+  transition: transform 0.25s ease-in-out;
+}
+
+
+
+

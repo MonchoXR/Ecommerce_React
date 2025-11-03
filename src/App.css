@@ -1,0 +1,6 @@
+.titulo {
+  font-size: 2rem;
+  color: #2563eb; /* Azul similar a Tailwind */
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
