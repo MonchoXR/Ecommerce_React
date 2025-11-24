@@ -28,8 +28,8 @@ export default function ItemDetailGallery({
               setModo3D(false); // Vuelve a modo 2D al hacer click en miniatura
             }}
             className={`w-20 h-20 rounded-xl border-2 overflow-hidden transition-all duration-200 shadow-sm ${mediaActual === media
-                ? "border-[#DC5C57] ring-2 ring-[#DC5C57]/50 scale-105"
-                : "border-gray-200 dark:border-gray-600 hover:border-[#DC5C57]/70 hover:shadow-md"
+              ? "border-[#DC5C57] ring-2 ring-[#DC5C57]/50 scale-105"
+              : "border-gray-200 dark:border-gray-600 hover:border-[#DC5C57]/70 hover:shadow-md"
               }`}
           >
             <img
