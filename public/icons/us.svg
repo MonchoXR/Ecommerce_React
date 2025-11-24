@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247 130">
+  <rect width="247" height="130" fill="#b22234"></rect>
+  <g fill="#fff">
+    <rect y="10" width="247" height="10"></rect>
+    <rect y="30" width="247" height="10"></rect>
+    <rect y="50" width="247" height="10"></rect>
+    <rect y="70" width="247" height="10"></rect>
+    <rect y="90" width="247" height="10"></rect>
+    <rect y="110" width="247" height="10"></rect>
+  </g>
+  
+  <rect width="98.8" height="70" fill="#3c3b6e"></rect>
+  
+  <g fill="#fff">
+    <!-- 9 rows: 6-5-6-5-6-5-6-5-6 -->
+    <!-- row 1 (6 stars) -->
+    <circle cx="8" cy="7" r="2"></circle>
+    <circle cx="24" cy="7" r="2"></circle>
+    <circle cx="40" cy="7" r="2"></circle>
+    <circle cx="56" cy="7" r="2"></circle>
+    <circle cx="72" cy="7" r="2"></circle>
+    <circle cx="88" cy="7" r="2"></circle>
+    
+    <!-- row 2 (5 stars) -->
+    <circle cx="16" cy="15" r="2"></circle>
+    <circle cx="32" cy="15" r="2"></circle>
+    <circle cx="48" cy="15" r="2"></circle>
+    <circle cx="64" cy="15" r="2"></circle>
+    <circle cx="80" cy="15" r="2"></circle>
+    
+    <!-- row 3 (6 stars) -->
+    <circle cx="8" cy="23" r="2"></circle>
+    <circle cx="24" cy="23" r="2"></circle>
+    <circle cx="40" cy="23" r="2"></circle>
+    <circle cx="56" cy="23" r="2"></circle>
+    <circle cx="72" cy="23" r="2"></circle>
+    <circle cx="88" cy="23" r="2"></circle>
+    
+    <!-- row 4 (5 stars) -->
+    <circle cx="16" cy="31" r="2"></circle>
+    <circle cx="32" cy="31" r="2"></circle>
+    <circle cx="48" cy="31" r="2"></circle>
+    <circle cx="64" cy="31" r="2"></circle>
+    <circle cx="80" cy="31" r="2"></circle>
+    
+    <!-- row 5 (6 stars) -->
+    <circle cx="8" cy="39" r="2"></circle>
+    <circle cx="24" cy="39" r="2"></circle>
+    <circle cx="40" cy="39" r="2"></circle>
+    <circle cx="56" cy="39" r="2"></circle>
+    <circle cx="72" cy="39" r="2"></circle>
+    <circle cx="88" cy="39" r="2"></circle>
+    
+    <!-- row 6 (5 stars) -->
+    <circle cx="16" cy="47" r="2"></circle>
+    <circle cx="32" cy="47" r="2"></circle>
+    <circle cx="48" cy="47" r="2"></circle>
+    <circle cx="64" cy="47" r="2"></circle>
+    <circle cx="80" cy="47" r="2"></circle>
+    
+    <!-- row 7 (6 stars) -->
+    <circle cx="8" cy="55" r="2"></circle>
+    <circle cx="24" cy="55" r="2"></circle>
+    <circle cx="40" cy="55" r="2"></circle>
+    <circle cx="56" cy="55" r="2"></circle>
+    <circle cx="72" cy="55" r="2"></circle>
+    <circle cx="88" cy="55" r="2"></circle>
+    
+    <!-- row 8 (5 stars) -->
+    <circle cx="16" cy="63" r="2"></circle>
+    <circle cx="32" cy="63" r="2"></circle>
+    <circle cx="48" cy="63" r="2"></circle>
+    <circle cx="64" cy="63" r="2"></circle>
+    <circle cx="80" cy="63" r="2"></circle>
+    
+    <!-- row 9 (6 stars) -->
+    <circle cx="8" cy="71" r="2"></circle>
+    <circle cx="24" cy="71" r="2"></circle>
+    <circle cx="40" cy="71" r="2"></circle>
+    <circle cx="56" cy="71" r="2"></circle>
+    <circle cx="72" cy="71" r="2"></circle>
+    <circle cx="88" cy="71" r="2"></circle>
+  </g>
+</svg>

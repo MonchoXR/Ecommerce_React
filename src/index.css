@@ -36,5 +36,28 @@ button[aria-expanded="true"] svg.chevron-anim {
 }
 
 
+/* 
+@media (max-width: 639px) {
+  .search-custom {
+    width: 200px !important;
+    margin-inline: auto;
+    background-color: var(--tw-bg-gray-100);
+  }
+}
 
+@media (max-width: 495px) {
+  .search-custom {
+    width: 150px !important;
+    margin-inline: auto;
+    background-color: var(--tw-bg-gray-100);
+  }
+}
+
+@media (max-width: 445px) {
+  .search-custom {
+    width: 100px !important;
+    margin-inline: auto;
+    background-color: var(--tw-bg-gray-100);
+  }
+} */
 
